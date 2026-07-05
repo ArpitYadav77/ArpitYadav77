@@ -11,15 +11,11 @@
 ---
 
 <div align="center">
-
 ### 📌 github_stats.exe
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitYadav77&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=ArpitYadav77&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-
+<img src="https://github-readme-stats-eight-pink.vercel.app/api/top-langs/?username=ArpitYadav77&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+<img src="https://github-readme-stats-eight-pink.vercel.app/api?username=ArpitYadav77&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArpitYadav77&theme=radical&hide_border=true" alt="Streak Stats" />
-
 </div>
 
 ---
