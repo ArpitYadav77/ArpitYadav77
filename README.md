@@ -15,7 +15,7 @@
 ```yaml
 name: Arpit Yadav
 role: Final-year ECE @ Thapar Institute of Engineering & Technology
-based_in: Bangalore (originally from Bareilly)
+currently:Patiala, Punjab (Open to opportunities in Gurgaon or Pune)
 focus: SDE & Business Analyst roles
 currently: building, deploying, debugging — repeat
 fun_fact: also trade futures paper-trading style (BTC, S&P 500, Gold) for fun
